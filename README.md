@@ -1,4 +1,5 @@
 # Face-Segmentation
+Face Segmentation takes an input image and outputs a segmented face.
 
 Option-1
 
