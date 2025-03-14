@@ -5,6 +5,7 @@ Option-1
 
 # clone the repository
 git clone https://github.com/hanspaa2017108/Face-Segmentation.git
+
 cd Face-Segmentation
 
 # create environment
@@ -18,6 +19,7 @@ Option-2
 
 # clone the repository
 git clone https://github.com/hanspaa2017108/Face-Segmentation.git
+
 cd Face-Segmentation
 
 # Install dependencies
