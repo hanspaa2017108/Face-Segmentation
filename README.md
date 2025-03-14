@@ -1,5 +1,5 @@
 # Face-Segmentation
-Face Segmentation takes an input image and outputs a segmented face.
+Face Segmentation system takes an input image and outputs a segmented face. It validates that the Input image has only one face.
 
 Option-1
 
